@@ -39,7 +39,7 @@ Amazon Icy Tower faithfully recreates the original Icy Tower experience with mom
 - **Game Over**: Fall off the bottom of the screen or get pushed down by a moving floor
 
 ### Floor Types
-The appearance of floors changes every 100 floors:
+The appearance of floors changes every 10 floors:
 - **Floors 0-9**: Stone
 - **Floors 10-19**: Ice
 - **Floors 20-29**: Wood
